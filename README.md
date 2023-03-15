@@ -1,1 +1,1 @@
-# singleton-design-pattern-task
+# design-pattern-tasks
